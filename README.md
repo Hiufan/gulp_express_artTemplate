@@ -1,0 +1,3 @@
+使用express搭建应用
+模板采用artTemplate
+利用gulp执行自动化工作流
