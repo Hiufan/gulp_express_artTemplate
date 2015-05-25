@@ -4,4 +4,7 @@
 - 利用gulp执行自动化工作流
 	- [x]监听js文件和template文件，自动刷新
 
+# 可参考的文档
+- (Gulp —— 另一种自动化流水线)(http://zhuanlan.zhihu.com/TLA42/19691575)
+
 
