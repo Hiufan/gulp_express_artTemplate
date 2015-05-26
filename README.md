@@ -14,3 +14,6 @@
 - [how to output multiple bundles with browserify and gulp](http://stackoverflow.com/questions/23835898/how-to-output-multiple-bundles-with-browserify-and-gulp)
 - [Browserify + Uglify2 with sourcemaps](https://github.com/gulpjs/gulp/blob/master/docs/recipes/browserify-uglify-sourcemap.md)
 - [Using gulp with browserify without the plugin](https://www.youtube.com/watch?v=OQk2MhdzIHo)
+
+## sourcemaps
+[Source Maps 101](http://code.tutsplus.com/tutorials/source-maps-101--net-29173)
