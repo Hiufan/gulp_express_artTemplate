@@ -7,6 +7,8 @@
 # 参考文档
 ## gulp basic
 - [Gulp —— 另一种自动化流水线](http://zhuanlan.zhihu.com/TLA42/19691575)
+- [前端自动化构建和发布系统的设计（一）](http://stylechen.com/static-build.html)
+- [前端自动化构建和发布系统的设计（二）](http://stylechen.com/static-publish.html)
  
 ## browserify
 - [Using Watchify with Gulp for fast Browserify build](https://truongtx.me/2014/08/06/using-watchify-with-gulp-for-fast-browserify-build/)
